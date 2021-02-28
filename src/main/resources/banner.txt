@@ -1,0 +1,6 @@
+${AnsiColor.RED}███████╗██████╗ ██████╗ ${AnsiColor.BLUE}██╗███╗   ██╗ ██████╗       ██████╗${AnsiColor.YELLOW}  ██████╗  ██████╗ ████████${AnsiColor.WHITE}╗
+${AnsiColor.RED}██╔════╝██╔══██╗██╔══██╗${AnsiColor.BLUE}██║████╗  ██║██╔════╝       ██╔══██╗${AnsiColor.YELLOW}██╔═══██╗██╔═══██╗╚═══██${AnsiColor.WHITE}╔══╝
+${AnsiColor.RED}███████╗██████╔╝██████╔╝${AnsiColor.BLUE}██║██╔██╗ ██║██║  ███╗      ██████╔╝${AnsiColor.YELLOW}██║   ██║██║   ██║   ██${AnsiColor.WHITE}║
+╚════${AnsiColor.RED}██║██╔═══╝ ██╔══██╗${AnsiColor.BLUE}██║██║╚██╗██║██║   ██║      ██╔══██╗${AnsiColor.YELLOW}██║   ██║██║   ██║   ██${AnsiColor.WHITE}║
+${AnsiColor.RED}███████║██║     ██║  ██║${AnsiColor.BLUE}██║██║ ╚████║╚██████╔╝      ██████╔╝${AnsiColor.YELLOW}╚██████╔╝╚██████╔╝   ██${AnsiColor.WHITE}║
+╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ${spring-boot.version}
